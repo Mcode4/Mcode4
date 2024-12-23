@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Marcellies 👋
 
+I'm a software engineer starting my journey in coding with JS, HTMl, and CSS and a few other languages. I'm passionate about art, coding, comics, etc and open to collabrate!
 <!--
 **Mcode4/Mcode4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
