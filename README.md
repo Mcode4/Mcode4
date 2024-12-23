@@ -2,8 +2,11 @@
 
 I'm a software engineer starting my journey in coding with JS, HTMl, and CSS and a few other languages. I'm passionate about art, coding, comics, etc and open to collabrate!
 
-Checkout My Portfolio Site At: mcode4.github.io/
+
+Checkout My Portfolio Site At: https://mcode4.github.io/
+
 LinkedIn: https://www.linkedin.com/in/marcellies-armstrong/
+
 Discord: mcode4
 
 <!--
