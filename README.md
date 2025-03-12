@@ -1,14 +1,13 @@
-<h1>Hi there, I'm Marcellies 👋</h1>
-<h3>Fullstack Developer & Software Engineer</h3>
+# Hi there, I'm Marcellies 👋  
+### Fullstack Developer & Software Engineer  
 
-I'm a software engineer coding in JS and Python. I'm passionate about art, coding, comics, etc and open to collabrate!
-<br/>
-I work on web development, creating frontend, backend, and full stack applications. I design features and improve functionality in old ones. I'm innovative, creating new solutions for problems when needed, I'm co-operative, listening and working on a project in a team, and I'm dependable, working through problems and meeting a task.
+I'm a software engineer coding in <mark>JS</mark> and <mark>Python</mark>. I'm passionate about art, coding, comics, etc and <mark>open to collabrate!</mark>  
+I work on <mark>web development</mark>, creating <mark>frontend</mark>, <mark>backend</mark>, and <mark>full stack applications</mark>. I <mark>design features</mark> and <mark>improve functionality</mark> in old ones <mark>I'm innovative</mark>, creating new solutions for problems when needed, <mark>I'm co-operative</mark>, listening and working on a project in a team, and <mark>I'm dependable</mark>, working through problems and meeting a task.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/marcellies/)
 [![Portfolio](https://img.shields.io/badge/Portfolio_Site-blue?style=for-the-badge)](https://mcode4.github.io/)
 
-<h3>Tools and Languages</h3>
+### Tools and Languages
 
 <!-- 
 JS
@@ -29,21 +28,40 @@ Flask-SQLAlchemy
 -->
 ![Tools2](https://skillicons.dev/icons?i=react,redux,python,flask,postgres,aws,docker)
 
-<h3>Projects</h3>
-<div style="display: flex; justify-content: space-evenly;">
-  <div>
-    Capstone Academy
-  </div>
-  <div>
-    Nom Now
-  </div>
-  <div>
-    Spot Homes
-  </div>
-  <div>
-    Chara-stagram
-  </div>
-</div>
+### Projects
+
+
+
+<details>
+  <summary>
+    <h4>Capstone Academy | MARCH 2025</h4>
+  </summary>
+  a
+</details>
+
+
+#### 
+<details>
+  <summary>
+    <h4>Nom Now | FEB 2025</h4>
+  </summary>
+  a
+</details>
+
+
+<details>
+  <summary>
+    <h4>Spot Homes | DEC 2025</h4>
+  </summary>
+  a
+</details>
+
+
+<details>
+  <summary>
+    <h4>Chara-stagram | OCT 2025</h4>
+  </summary>
+</details>
 
 
 Checkout My Portfolio Site At: https://mcode4.github.io/
