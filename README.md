@@ -5,7 +5,7 @@ I'm a software engineer starting my journey in coding with JS, HTMl, and CSS and
 
 Checkout My Portfolio Site At: https://mcode4.github.io/
 
-LinkedIn: https://www.linkedin.com/in/marcellies-armstrong/
+LinkedIn: [https://www.linkedin.com/in/marcellies-armstrong/](https://www.linkedin.com/in/marcellies/)
 
 Discord: mcode4
 
