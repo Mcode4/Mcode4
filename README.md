@@ -37,12 +37,10 @@ Flask-SQLAlchemy
     <h4>Capstone Academy | MARCH 2025</h4>
   </summary>
 
-![saves-for1](https://github.com/user-attachments/assets/87067dfa-a2aa-487a-9a93-c8baaadabd3d)
+  ![saves-for1](https://github.com/user-attachments/assets/87067dfa-a2aa-487a-9a93-c8baaadabd3d)
 
-
-
-
-  
+  Content Platform  
+  https://github.com/Mcode4/Capstone-Academy
 </details>
 
 
@@ -52,11 +50,10 @@ Flask-SQLAlchemy
     <h4>Nom Now | FEB 2025</h4>
   </summary>
 
+  ![saves-for2](https://github.com/user-attachments/assets/7e63f88a-caa8-41a9-9487-daf672ae274b)
 
-![saves-for2](https://github.com/user-attachments/assets/7e63f88a-caa8-41a9-9487-daf672ae274b)
-
-
-  
+  Food Delivery Site  
+  https://github.com/Mcode4/NomNow
 </details>
 
 
@@ -65,11 +62,10 @@ Flask-SQLAlchemy
     <h4>Spot Homes | DEC 2024</h4>
   </summary>
 
+  ![saves-for3](https://github.com/user-attachments/assets/4603438e-c70f-4c72-95ab-7496fc1ccd80)
 
-![saves-for3](https://github.com/user-attachments/assets/4603438e-c70f-4c72-95ab-7496fc1ccd80)
-
-
-  
+  Home Rental Website  
+  https://github.com/Mcode4/Spot-Homes-FullStack
 </details>
 
 
@@ -78,20 +74,11 @@ Flask-SQLAlchemy
     <h4>Chara-stagram | OCT 2024</h4>
   </summary>
 
+  ![saves-for4](https://github.com/user-attachments/assets/9b84e1be-ba99-48a6-9f3d-ee3d5f3248a1)
 
-![saves-for4](https://github.com/user-attachments/assets/9b84e1be-ba99-48a6-9f3d-ee3d5f3248a1)
-
-
-
-  
+  Social Media Platform  
+  https://github.com/Mcode4/Chara-stagram
 </details>
-
-
-Checkout My Portfolio Site At: https://mcode4.github.io/
-
-LinkedIn: https://www.linkedin.com/in/marcellies/
-
-Discord: mcode4
 
 <!--
 **Mcode4/Mcode4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
