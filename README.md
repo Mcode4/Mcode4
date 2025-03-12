@@ -1,7 +1,7 @@
 ## Hi there, I'm Marcellies 👋
 
-I'm a software engineer starting my journey in coding with JS, HTMl, and CSS and a few other languages. I'm passionate about art, coding, comics, etc and open to collabrate!
-
+I'm a software engineer coding in JS and Python. I'm passionate about art, coding, comics, etc and open to collabrate!
+I work on web development, creating frontend, backend, and full stack applications. I design features and improve functionality in old ones. I'm innovative, creating new solutions for problems when needed, I'm co-operative, listening and working on a project in a team, and I'm dependable, working through problems and meeting a task.
 
 Checkout My Portfolio Site At: https://mcode4.github.io/
 
