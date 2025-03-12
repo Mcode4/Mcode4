@@ -44,7 +44,6 @@ Flask-SQLAlchemy
 </details>
 
 
-#### 
 <details>
   <summary>
     <h4>Nom Now | FEB 2025</h4>
