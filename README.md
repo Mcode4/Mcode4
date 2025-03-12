@@ -8,7 +8,7 @@ I work on web development, creating frontend, backend, and full stack applicatio
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/marcellies/)
 [![Portfolio](https://img.shields.io/badge/Portfolio_Site-blue?style=for-the-badge)](https://mcode4.github.io/)
 
-## Tools and Languages
+<h3>Tools and Languages</h3>
 
 <!-- 
 JS
@@ -29,7 +29,7 @@ Flask-SQLAlchemy
 -->
 ![Tools2](https://skillicons.dev/icons?i=react,redux,python,flask,postgres,aws,docker)
 
-
+<h3>Projects</h3>
 <div style="display: flex; justify-content: space-evenly;">
   <div>
     Capstone Academy
