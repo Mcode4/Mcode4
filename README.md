@@ -29,9 +29,12 @@ Flask-SQLAlchemy
 ![Tools2](https://skillicons.dev/icons?i=react,redux,python,flask,postgres,aws,docker)
 
 ### Projects
+- [Capstone Academy | MARCH 2025](https://github.com/Mcode4/Capstone-Academy)
+- [Nom Now | FEB 2025](https://github.com/Mcode4/NomNow)
+- [Spot Homes | DEC 2024](https://github.com/Mcode4/Spot-Homes-FullStack)
+- [Chara-stagram | OCT 2024](https://github.com/Mcode4/Chara-stagram)
 
-
-
+<!--
 <details>
   <summary>
     <h4>Capstone Academy | MARCH 2025</h4>
