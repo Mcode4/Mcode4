@@ -1,7 +1,7 @@
 # Hi there, I'm Marcellies 👋  
 ### Fullstack Developer & Software Engineer  
 
-I'm a software engineer coding in <mark>JS</mark> and <mark>Python</mark>. I'm a 2025 Graduate from App Academy.  
+I'm a software engineer coding in <mark>JS</mark> and <mark>Python</mark>. I'm a self taught programmer and App Academy Graduate.  
 I work in <mark>web development</mark>, creating <mark>frontend</mark>, <mark>backend</mark>, and <mark>full stack applications</mark>. I <mark>design features</mark> and <mark>improve functionality</mark> in old ones. <mark>I'm innovative</mark>, creating new solutions for problems when needed, <mark>I'm co-operative</mark>, listening and working on a project in a team, and <mark>I'm dependable</mark>, working through problems to meet my task.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/marcellies/)
