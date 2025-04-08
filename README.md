@@ -2,7 +2,7 @@
 ### Fullstack Developer & Software Engineer  
 
 Software engineer coding in <mark>JS</mark> and <mark>Python</mark>. I'm a self taught programmer and completed App Academy's Bootcamp.  
-I work with <mark>web development</mark>, creating <mark>frontend</mark>, <mark>backend</mark>, and <mark>full stack applications</mark>. I <mark>design features</mark> and stride to <mark>improve functionality</mark> in old ones. <mark>I'm innovative</mark>, creating new solutions for problems when needed, <mark>I'm co-operative</mark>, helping and working with a team, and <mark>I'm dependable</mark>, working through problems to meet my task.
+I work with <mark>web development</mark>, creating <mark>frontend</mark>, <mark>backend</mark>, and <mark>full stack applications</mark>. I <mark>design features</mark> and stride to <mark>improve functionality</mark> in old ones. <mark>I'm innovative</mark>, creating new solutions for problems when needed, <mark>I'm co-operative</mark>, working with a team, and <mark>I'm dependable</mark>, working through problems to meet my task.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/marcellies/)
 [![Portfolio](https://img.shields.io/badge/Portfolio_Site-blue?style=for-the-badge)](https://mcode4.github.io/)
