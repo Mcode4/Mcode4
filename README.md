@@ -1,8 +1,8 @@
 # Hi there, I'm Marcellies 👋  
 ### Fullstack Developer & Software Engineer  
 
-Software engineer coding in <mark>JS</mark> and <mark>Python</mark>. I'm a self taught programmer and completed App Academy's Bootcamp.  
-I work with <mark>web development</mark>, creating <mark>frontend</mark>, <mark>backend</mark>, and <mark>full stack applications</mark>. I <mark>design features</mark> and stride to <mark>improve functionality</mark> in old ones. <mark>I'm innovative</mark>, creating new solutions for problems when needed, <mark>I'm co-operative</mark>, working with a team, and <mark>I'm dependable</mark>, working through problems to meet my task.
+Self taught programmer coding in <mark>JS</mark> and <mark>Python</mark>. Completed App Academy's Bootcamp 2025.  
+I create <mark>web development</mark>, <mark>frontend</mark>, <mark>backend</mark>, and <mark>full stack applications</mark>. I <mark>design features</mark> and stride to <mark>improve functionality</mark> in old ones. <mark>I'm innovative</mark>, <mark>I'm co-operative</mark>, <mark>I'm dependable</mark>, and ready to go into this new exciting career.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/marcellies/)
 [![Portfolio](https://img.shields.io/badge/Portfolio_Site-blue?style=for-the-badge)](https://mcode4.github.io/)
